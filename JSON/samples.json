@@ -1,1 +1,20 @@
-[ ]
+[
+  {
+    "name": "BassPick",
+    "file": "samples/BassPick.wav",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Do It With Awareness",
+    "file": "samples/DoItWithAwareness.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Piano Riff",
+    "file": "samples/PianoRiff_03.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
